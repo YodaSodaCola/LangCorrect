@@ -48,7 +48,7 @@ var selected_language = {
 
 var title_0 = {
     English:  'Learn from native speakers',
-    Japanese:  'ネイティブスピーカーから学ぶ',
+    Japanese:  'ネイティブスピーカーから学ぼう',
     Chinese:  '与母语人士学习',
     Korean:  '원어민들한테서 배우세요',
     German:  'Lerne von Muttersprachlern',
@@ -58,7 +58,7 @@ var title_0 = {
 
 var text_0 = {
     English:  'Practicing writing in the language(s) you are learning, and receive feedback from native speakers.',
-    Japanese:  'あなたが学習したい言語で文章を作成して、ネイティブスピーカーに見てもらって感想を書いてもらいましょう。',
+    Japanese:  'あなたが学びたい言語で文章を作成し、ネイティブスピーカーから感想を書いてもらいましょう。',
     Chinese:  '用您正在学习的语言练习写作，并获得母语人士的反馈。',
     Korean:  '배우시는 언어로 적는 연습을 하시고, 원어민한테 직접 피드백을 받으세요',
     German:  'Schreiben üben in den Sprachen, die du lernst und Feedback von Muttersprachlern erhalten',
@@ -108,7 +108,7 @@ var content_title_2 = {
 
 var content_text_0 = {
     English:  "Two convenient tabs to filter journals written from community members and friends. Journals written by community members are automatically filtered by language and shown to native speakers.",
-    Japanese: 'コミュニティメンバーや友達が書いたジャーナルを、2つの便利なタブで選別します。コミュニティメンバーが書いたジャーナルは、言語別に選別されネイティブスピーカーが閲覧します。',
+    Japanese: 'コミュニティメンバーや友達が書いたジャーナルは、2つの便利なタブに分けられます。コミュニティメンバーが書いたジャーナルは、言語別に分けられネイティブが添削します。',
     Chinese:  '两个方便的标签可过滤社区成员和朋友撰写的文章。社区成员撰写的期刊会自动按语言进行过滤，并显示给母语人士。',
     Korean:   '두 개의 편리한 탭들로 커뮤니티 멤버나 친구가 적은 일기들을 필터 하세요. 커뮤니티 멤버들이 적은 일기들은 자동으로 언어에 따라 필터 되며, 원어민들한테 보입니다.',
     German:   'Zwei einfache Tabs, um Einträge von Community Mitgliedern und Freunden zu filtern. Einträge von Community Mitgliedern werden automatisch per Sprache gefiltert und Muttersprachlern angezeigt.',
@@ -118,7 +118,7 @@ var content_text_0 = {
 
 var content_text_1 = {
     English:  "Corrected sentences are automatically highlighted for your convenience. So you can spend more time learning from the mistakes than looking for them.",
-    Japanese: '修正部分は自動的にハイライトされるので、ミスから確実に学ぶことが出来ます。',
+    Japanese: '改善点は自動的にハイライトされるので、ミスから確実に学ぶことが出来ます。',
     Chinese:  '为了方便您的学习，更正后的句子将自动显示出来。因此，您可以花更多的时间来更正错误。',
     Korean:   '고쳐진 문장들은 여러분의 편히를 위해 자동적으로 하이라이트 됩니다. 그래서 실수하신 부분을 찾는데 시간을 허비하기 보다는 그 시간에 더 배울 수 있도록 도와드립니다.',
     German:   'Korrigierte Sätze werden automatisch zur Vereinfachung hervorgehoben. Somit kannst du mehr Zeit damit verbringen von deinen Fehlern zu lernen als nach ihnen zu suchen.',
@@ -128,7 +128,7 @@ var content_text_1 = {
 
 var content_text_2 = {
     English:  "Want to take a break and relax? Talk to each other using messages.",
-    Japanese: '休憩してリラックスしたいですか？メッセージを使って会話しましょう。',
+    Japanese: '休憩ですか？メッセージを使って会話しましょう。',
     Chinese:  '想要休息片刻吗？发送消息互相练习交流吧。',
     Korean:   '쉬고 싶으세요? 서로에게 메시지를 통해서 얘기해 보세요.',
     German:   'Möchtest du dir eine Pause gönnen und dich entspannen? Kommuniziert über Nachrichten miteinander.',
@@ -138,7 +138,7 @@ var content_text_2 = {
 
 var block_down_0 = {
     English:  'Whether you are fluent or just starting out, you are more than welcome to join our language learning community. <br>We are all learners and we understand that in order to reach fluency, it is important to make mistakes.<br> Let our wonderful community correct those happy mistakes and help you reach the level you want to be.',
-    Japanese: 'あなたの学習言語の習熟度に関わらず、私たちの言語学習コミュニティへの参加を歓迎します。<br>皆が学習者であり、言語をマスターすることはミスの連続なのです。<br>学習言語習得に、この素晴らしいコミュニティを利用して下さい。',
+    Japanese: 'あなたの習熟度に関わらず、私たちの言語学習コミュニティへの参加を歓迎します。<br>皆が学習者であり、言語をマスターすることはミスの連続なのです。<br>言語習得に、この素晴らしいコミュニティを利用して下さい。',
     Chinese:  '无论你的语言水平是高级还是初级，都非常欢迎您加入我们的语言学习社区。 <br>我们都在相互学习，我们知道为了使语言达到流利的程度，犯些错误也很重要。<br>让我们美好的学习社区来纠正那些快乐的小错误，并帮助您达到期望的水平。',
     Korean:   '지금 막 언어를 배우기 시작하셨든, 아니면 유창하시든, 저희 언어 배움 커뮤니티에서는 모든 분을 환영합니다. <br> 우리 모두 배우는 사람으로서, 유창해지기까지 실수하는 과정이 얼마나 중요한지 이해합니다. <br> 저희의 아름다운 커뮤니티를 통해 그 실수에서 배우고 또 여러분이 원하시는 레벨까지 성장할 수 있도록 도와드리겠습니다.',
     German:   'Ob du fließend sprichst oder gerade erst anfängst, du bist mehr als willkommen unserer Sprachenlerngemeinschaft beizutreten <br> Wir sind alle Lerner und wissen, dass es wichtig ist Fehler zu machen, um fließend sprechen zu können. <br> Lass unsere wunderbare Community diese glücklichen Fehler korrigieren und dir dabei helfen dein gewünschtes Level zu erreichen.',
